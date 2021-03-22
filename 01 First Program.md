@@ -1,6 +1,7 @@
 ---
 slug: 01-first-program
 date: 2021-03-21
+tags: [series]
 ---
 
 # First Program

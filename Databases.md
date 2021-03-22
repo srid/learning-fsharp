@@ -1,1 +1,5 @@
-* In-memory, using plain data structures, [[EventSource]]-bassed: [[Memstate]]#
+---
+tags: [topic]
+---
+
+- In-memory, using plain data structures, [[EventSource]]-bassed: [[Memstate]]#
