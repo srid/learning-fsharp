@@ -84,4 +84,8 @@ Keep in mind that this is the first F# code I wrote, and I did that without actu
         async>
 </script>
 
+## Links
+
+- [r/fsharp post](https://www.reddit.com/r/fsharp/comments/mablsh/memstate_inmemory_eventsourced_acidtransactional/)
+
 [^osl]: https://opensourcelibs.com/libs/eventstore
