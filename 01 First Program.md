@@ -9,6 +9,8 @@ I came across[^osl] the [memstate](https://github.com/DevrexLabs/memstate) libra
 
 There were *no* examples for it in F#, however. So I bootstrapped a new dotnet console project and decided to get something working by referencing memstate's tests.
 
+[Program.fs](https://github.com/srid/OneBird/blob/083cab366db6d1c5a3f8b1b595576d6f65772940/Program.fs):
+
 ```fsharp
 // Learn more about F# at http://docs.microsoft.com/dotnet/fsharp
 
@@ -73,8 +75,6 @@ let main argv =
     } |> Async.RunSynchronously
     0 // return an integer exit code
 ```
-
-([Permalink](https://github.com/srid/OneBird/blob/88b7bad964bd6513f9033b563a3541b9774e09e8/Program.fs#L1-L60))
 
 Keep in mind that this is the first F# code I wrote, and I did that without actually formally studying the language ahead. There is a TODO in there as a reminder for myself to study the concurrency topic (the async stuff). Microsoft has pretty good [introductory docs](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/asynchronous-and-concurrent-programming/async?source=docs) on it.
 
