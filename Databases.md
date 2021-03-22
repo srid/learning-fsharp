@@ -1,0 +1,1 @@
+* In-memory, using plain data structurs, [[EventSource]]-bassed: [[Memstate]]#
