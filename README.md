@@ -6,6 +6,10 @@ slug: index
 
 A fast-paced microblog focused on one topic of learning F# that might turn out to be a proper series of posts on [srid.ca](https://www.srid.ca).
 
-[[z:zettels?tag=series&timeline]]#
+[[Blog]]
+
+[[Topics]]
+
+[[z:zettels?tag=series&timeline]]
 
 [[z:zettels?tag=topic]]

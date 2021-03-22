@@ -1,0 +1,1 @@
+[[z:zettels?tag=topic]]#
