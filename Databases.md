@@ -1,1 +1,1 @@
-* In-memory, using plain data structurs, [[EventSource]]-bassed: [[Memstate]]#
+* In-memory, using plain data structures, [[EventSource]]-bassed: [[Memstate]]#
