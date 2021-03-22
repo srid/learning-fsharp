@@ -76,5 +76,12 @@ let main argv =
 
 Keep in mind that this is the first F# code I wrote, and I did that without actually formally studying the language ahead. There is a TODO in there as a reminder for myself to study the concurrency topic (the async stuff). Microsoft has pretty good [introductory docs](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/asynchronous-and-concurrent-programming/async?source=docs) on it.
 
+<script src="https://utteranc.es/client.js"
+        repo="srid/learning-fsharp"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 [^osl]: https://opensourcelibs.com/libs/eventstore
