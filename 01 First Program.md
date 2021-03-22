@@ -72,6 +72,8 @@ let main argv =
     0 // return an integer exit code
 ```
 
+([Permalink](https://github.com/srid/OneBird/blob/88b7bad964bd6513f9033b563a3541b9774e09e8/Program.fs#L1-L60))
+
 Keep in mind that this is the first F# code I wrote, and I did that without actually formally studying the language ahead. There is a TODO in there as a reminder for myself to study the concurrency topic (the async stuff). Microsoft has pretty good [introductory docs](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/asynchronous-and-concurrent-programming/async?source=docs) on it.
 
 
