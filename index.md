@@ -7,3 +7,7 @@ A fast-paced microblog, and a learning map of some sort (subjective), focused on
 
 ## [[Topics]]
 [[z:zettels?tag=topic]]
+
+```query
+#topic 
+```
