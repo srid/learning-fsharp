@@ -2,6 +2,8 @@
 
 A fast-paced microblog, and a learning map of some sort (subjective), focused on one topic of learning F# that might turn out to be a proper series of posts on [srid.ca](https://www.srid.ca).
 
+**Current project:** https://github.com/srid/Feather
+
 ## [[Microblog]]
 [[z:zettels?tag=series&timeline]]
 
