@@ -6,7 +6,7 @@ tags: [series]
 
 # First Program
 
-I came across[^osl] the [[Memstate]] library (after reading about CQRS and eventsourcedb), which seemed very similar to `acid-state` on Haskell world, but based on CQRS and in the dotnet world. This would be a perfect candidate for a single-user full-stack web app project, and as a replacement of LiteDB. 
+I came across[^osl] the [[Memstate]] library (after reading about CQRS and eventsourcedb), which seemed very similar to `acid-state` on Haskell world, but based on CQRS and in the dotnet world. This would be a perfect candidate for a single-user [[Full-stack web development]] project, and as a replacement of LiteDB. 
 
 There were *no* examples for it in F#, however. So I bootstrapped a new dotnet console project and decided to get something working by referencing memstate's tests.
 
