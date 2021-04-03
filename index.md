@@ -4,6 +4,8 @@ A fast-paced microblog, and a learning map of some sort (subjective), focused on
 
 **Current project:** https://github.com/srid/Feather
 
+**Interlude (2021-04-02)**: https://notes.srid.ca/fsharp-exploration
+
 ## [[Microblog]]
 [[z:zettels?tag=series&timeline]]
 
